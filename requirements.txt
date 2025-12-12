@@ -1,0 +1,11 @@
+ipykernel
+cloudpickle
+numerai_tools
+lightgbm
+matplotlib
+pandas
+numerapi
+pyarrow
+scikit-learn
+scipy
+cloudpickle==3.1.2
