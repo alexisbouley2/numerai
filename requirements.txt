@@ -2,6 +2,7 @@ cloudpickle==3.1.2
 ipykernel==7.1.0
 ipywidgets==8.1.8
 matplotlib==3.10.7
+modal==0.66.0
 numerapi==2.21.0
 numerai_tools==0.5.1
 pandas==2.3.3
