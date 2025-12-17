@@ -1,10 +1,10 @@
 name: Daily Numerai Predictions
 
 on:
-  schedule:
-    # Run daily at 2:00 AM UTC (adjust timezone as needed)
-    # Uncomment the line below to enable daily automatic runs
-    # - cron: '0 2 * * *'
+  # To enable daily automatic runs, uncomment the schedule section below:
+  # schedule:
+  #   # Run daily at 2:00 AM UTC (adjust timezone as needed)
+  #   - cron: '0 2 * * *'
   workflow_dispatch: # Allow manual triggering
 
 jobs:
